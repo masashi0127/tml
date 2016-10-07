@@ -70,7 +70,7 @@
           "index": "analyzed",
           "analyzer": "title_analyzer"
         },
-        "create_date": {
+        "created_at": {
           "type":   "date",
           "format": "yyyy-MM-dd",
           "index": "not_analyzed"
